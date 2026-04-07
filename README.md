@@ -1,178 +1,152 @@
-# <div align="center">Hi there, I'm Suryansh! 👋</div>
+# <div align="center">👋 Suryansh Agarwal</div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="120" alt="wave" />
-  <br/>
-  <i>Full Stack Developer | Open Source Enthusiast | Tech Explorer</i>
+  <h3>Full Stack Developer | Open Source Contributor | Problem Solver</h3>
+  <p>
+    <strong>Building scalable, high-performance web applications with clean code and modern technologies</strong>
+  </p>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suryansh-agarwal-b55232289)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Suryansh4711)
+  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:suryansh@example.com)
 </div>
 
 ---
 
-## 💫 About Me
+## 👨‍💻 About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="250" alt="coding" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="240" alt="coding" />
 
-- 💻 Building innovative solutions with clean, efficient, and maintainable code
-- 🌱 Constantly learning and exploring emerging technologies
-- 🎯 Passionate about contributing to open-source projects
-- 🎨 Creating intuitive and delightful user experiences
-- ⚡ Focused on scalability, performance, and best practices
-- 🚀 Turning ideas into reality, one line at a time
+I'm a passionate Full Stack Developer focused on creating elegant solutions to complex problems. With expertise in modern web technologies, I build scalable applications that prioritize user experience and performance.
 
-<br/><br/>
+**What I do:**
+- 🎯 Design and develop full-stack web applications
+- ⚙️ Build robust APIs and microservices
+- 📱 Create responsive, intuitive user interfaces
+- 🔄 Implement CI/CD pipelines and DevOps practices
+- 🧪 Write clean, testable, and maintainable code
+- 🌱 Contribute to open-source projects and mentor developers
+
+<br/>
 
 ---
 
-## 🛠️ Skills & Tech Stack
+## 🛠️ Technical Expertise
 
-### 🎯 Programming Languages
-<div>
-  <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-</div>
-
-### 🎨 Frontend Technologies
-<div>
-  <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-</div>
-
-### ⚙️ Backend & Databases
+### 💻 Backend Development
 <div>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/REST_APIs-004B87?style=for-the-badge&logo=postman&logoColor=white" alt="REST" />
+</div>
+
+### 🎨 Frontend Development
+<div>
+  <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+</div>
+
+### 🗄️ Databases & Data
+<div>
+  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 </div>
 
 ### 🔧 Tools & Platforms
 <div>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </div>
 
 ---
 
-## 😂 Developer Humor Zone
+## 📈 GitHub Performance
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213760710-201a57d2-95f1-45c7-b910-44faf209d2f8.gif" width="200" alt="developer-mood" />
+
+| Statistics | Languages | Streak |
+|---|---|---|
+| ![Suryansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suryansh4711&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&line_height=27) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suryansh4711&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117) | ![GitHub Streak](https://streak-stats.demolab.com/?user=Suryansh4711&theme=tokyonight&hide_border=true&background=0d1117) |
+
+</div>
+
+---
+
+## 🎯 Current Goals & Interests
+
+- 🚀 Building production-grade full-stack applications
+- 🔍 Mastering system design and scalable architecture
+- 📚 Contributing to impactful open-source projects
+- 🎓 Staying updated with cutting-edge technologies
+- 💡 Sharing knowledge and mentoring junior developers
+- 🌐 Exploring cloud-native development (AWS, GCP, Azure)
+
+---
+
+## 💼 Featured Projects
+
+### 🔗 URL Shortener
+A high-performance URL shortening service with QR code generation, analytics tracking, and real-time metrics.
+- **Tech Stack**: React, Node.js, MongoDB, Tailwind CSS
+- **Features**: QR code generation, link analytics, custom durations
+- **Repo**: [URLSHORTNER](https://github.com/Suryansh4711/URLSHORTNER)
+
+---
+
+## 📚 Core Competencies
+
+**Frontend:**
+- Modern React with Hooks and Context API
+- TypeScript for type safety
+- Responsive UI/UX design with Tailwind CSS
+- State management and performance optimization
+- RESTful API integration
+
+**Backend:**
+- Node.js & Express.js for scalable APIs
+- Database design and optimization
+- Authentication & authorization
+- Microservices architecture
+- RESTful & GraphQL APIs
+
+**DevOps & Tools:**
+- Git version control & collaborative workflows
+- Docker containerization
+- CI/CD pipeline implementation
+- Linux system administration
+- Agile development practices
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+I'm always interested in discussing interesting projects, sharing knowledge, and exploring new opportunities!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suryansh-agarwal-b55232289)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Suryansh4711)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryansh@example.com)
+
+</div>
+
+---
+
+<div align="center">
+  <p>
+    <strong>Always learning, always building, always improving.</strong>
+  </p>
+  <img src="https://komarev.com/ghpvc/?username=Suryansh4711&style=flat-square&color=0366d6" alt="visitor-counter" />
   <br/>
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="200" alt="lets-do-it" />
-</div>
-
-### 🎭 The Reality of Programming:
-> **"Every programmer starts out thinking they're smarter than they really are."**
-
-```
-My Code (in my head):   ✨ PERFECT ✨
-My Code (in production): 🔥 ON FIRE 🔥
-Stack Overflow:         Our savior 🙏
-```
-
----
-
-## 📊 GitHub Analytics & Activity
-
-<div align="center">
-  
-### 📈 My GitHub Stats
-![Suryansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suryansh4711&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
-
-### 🔥 Streak & Contributions
-![GitHub Streak](https://streak-stats.demolab.com/?user=Suryansh4711&theme=radical&hide_border=true&background=0d1117)
-
-### 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suryansh4711&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-<img align="left" src="https://user-images.githubusercontent.com/74038190/212896001-c2105e17-255f-4816-b348-8cfddfe2a915.gif" width="180" alt="focused" />
-
-- 🔍 Exploring advanced TypeScript and React optimization
-- 📚 Deepening knowledge in full-stack development
-- 🌟 Contributing to meaningful open-source projects
-- 💡 Building scalable, production-ready applications
-- 🎓 Mentoring and helping other developers grow
-
-<br/><br/>
-
----
-
-## 🏆 Developer Moments
-
-<div align="center">
-
-| When Code Works | When Git Has Conflicts |
-|---|---|
-| <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="150" alt="coding" /> | <img src="https://user-images.githubusercontent.com/74038190/218266069-da299265-d22b-41f5-99f1-cf8bfa951c42.gif" width="150" alt="git-conflict" /> |
-| *I'm a genius!* � | *Why me?!* 😭 |
-
-| Explaining My Code | After 8 Cups of Coffee |
-|---|---|
-| <img src="https://user-images.githubusercontent.com/74038190/212897782-96581536-54a0-4b87-87b4-5e55f95e8a8b.gif" width="150" alt="explaining" /> | <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="150" alt="night-chill" /> |
-| *It's obvious!* 🤷 | *Still debugging...* ☕ |
-
-</div>
-
-
-
----
-
-## � Quick Wisdom
-
-<blockquote align="center">
-
-> **There are 10 kinds of people:**
-> 1. Those who understand binary
-> 2. Those who don't
-> 3. Those who didn't expect this to be a ternary joke
-
-</blockquote>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/218816727-496da3e8-92e0-4f82-8bff-2367b2c12b54.gif" width="150" alt="coding-wisdom" />
-  <br/>
-  <sub><i>"Code is poetry... broken, poorly formatted poetry."</i></sub>
-</div>
-
----
-
-## �📫 Let's Connect & Collaborate!
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/suryansh-agarwal-b55232289" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Suryansh4711" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:suryansh@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://twitter.com/your_handle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="80" alt="farewell-wave" />
-  
-  **Feel free to reach out for collaborations, ideas, or just a friendly chat!** 😊
-  
-  <sub>Thanks for stopping by! May your code compile on the first try! 🚀</sub>
-  
-  <img src="https://komarev.com/ghpvc/?username=Suryansh4711&style=flat-square&color=blue" alt="visitor-counter" />
+  <sub>© 2024 Suryansh Agarwal | Open to collaborations and opportunities</sub>
 </div>
