@@ -100,7 +100,7 @@ I'm a passionate Full Stack Developer focused on creating elegant solutions to c
 
 | Statistics | Languages | Streak |
 |---|---|---|
-| ![Suryansh's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Suryansh4711&theme=tokyonight) | ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most_commit_language?username=Suryansh4711&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Suryansh4711&theme=tokyonight&hide_border=true) |
+| ![Suryansh's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Suryansh4711&theme=tokyonight) | ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Suryansh4711&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Suryansh4711&theme=tokyonight&hide_border=true) |
 
 </div>
 
