@@ -93,31 +93,6 @@ I'm a passionate Full Stack Developer focused on creating elegant solutions to c
 
 ---
 
-##  Core Competencies
-
-**Frontend:**
-- Modern React with Hooks and Context API
-- TypeScript for type safety
-- Responsive UI/UX design with Tailwind CSS
-- State management and performance optimization
-- RESTful API integration
-
-**Backend:**
-- Node.js & Express.js for scalable APIs
-- Database design and optimization
-- Authentication & authorization
-- Microservices architecture
-- RESTful & GraphQL APIs
-
-**DevOps & Tools:**
-- Git version control & collaborative workflows
-- Docker containerization
-- CI/CD pipeline implementation
-- Linux system administration
-- Agile development practices
-
----
-
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
@@ -138,5 +113,5 @@ I'm always interested in discussing interesting projects, sharing knowledge, and
   </p>
   <img src="https://komarev.com/ghpvc/?username=Suryansh4711&style=flat-square&color=0366d6" alt="visitor-counter" />
   <br/>
-  <sub>© 2024 Suryansh Agarwal | Open to collaborations and opportunities</sub>
+  <sub>© 2026 Suryansh Agarwal | Open to collaborations and opportunities</sub>
 </div>
