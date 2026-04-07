@@ -39,16 +39,27 @@ I'm a passionate Full Stack Developer focused on creating elegant solutions to c
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/REST_APIs-004B87?style=for-the-badge&logo=postman&logoColor=white" alt="REST" />
 </div>
 
 ### 🎨 Frontend Development
 <div>
   <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React_Native-61dafb?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+</div>
+
+### 📱 Mobile & Android Development
+<div>
+  <img src="https://img.shields.io/badge/React_Native-61dafb?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
 </div>
 
 ### 🗄️ Databases & Data
@@ -56,6 +67,7 @@ I'm a passionate Full Stack Developer focused on creating elegant solutions to c
   <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 </div>
 
@@ -66,6 +78,18 @@ I'm a passionate Full Stack Developer focused on creating elegant solutions to c
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</div>
+
+### 🤖 Machine Learning & AI
+<div>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logoColor=white" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logoColor=white" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/LLMs-10A37F?style=for-the-badge&logoColor=white" alt="LLMs" />
 </div>
 
 ---
@@ -90,6 +114,53 @@ I'm a passionate Full Stack Developer focused on creating elegant solutions to c
 - 🎓 Staying updated with cutting-edge technologies
 - 💡 Sharing knowledge and mentoring junior developers
 - 🌐 Exploring cloud-native development (AWS, GCP, Azure)
+
+---
+
+## 📚 Core Competencies
+
+**Frontend:**
+- Modern React with Hooks and Context API
+- Next.js for server-side rendering and static generation
+- TypeScript for type safety
+- Responsive UI/UX design with Tailwind CSS
+- State management and performance optimization
+- RESTful API integration
+
+**Mobile & Android Development:**
+- React Native for cross-platform mobile apps
+- Native Android development with Kotlin and Java
+- Mobile UI/UX design patterns
+- Platform-specific optimizations
+- Integration with native APIs
+
+**Backend:**
+- Node.js & Express.js for scalable APIs
+- Database design and optimization (SQL & NoSQL)
+- Authentication & authorization
+- Microservices architecture
+- RESTful & GraphQL APIs
+
+**Machine Learning & AI:**
+- Deep Learning with TensorFlow and PyTorch
+- Generative AI and Large Language Models (LLMs)
+- NumPy, Pandas, and Scikit-learn for data science
+- Machine learning model development and deployment
+- Natural Language Processing (NLP)
+- Computer Vision applications
+
+**Database Technologies:**
+- Relational Databases: PostgreSQL, MySQL, SQL Server
+- NoSQL: MongoDB, Redis
+- Query optimization and indexing
+- Database design and normalization
+
+**DevOps & Tools:**
+- Git version control & collaborative workflows
+- Docker containerization
+- CI/CD pipeline implementation
+- Linux system administration
+- Agile development practices
 
 ---
 
