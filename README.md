@@ -1,7 +1,7 @@
 # <div align="center">👋 Suryansh Agarwal</div>
 
 <div align="center">
-  <h3>Full Stack Developer | Android Developer |Open Source Contributor | Problem Solver</h3>
+  <h3>Full Stack Developer | Android Developer | Open Source Contributor | Problem Solver</h3>
   <p>
     <strong>Building scalable, high-performance web applications with clean code and modern technologies</strong>
   </p>
