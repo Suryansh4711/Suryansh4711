@@ -117,53 +117,6 @@ I'm a passionate Full Stack Developer focused on creating elegant solutions to c
 
 ---
 
-## 📚 Core Competencies
-
-**Frontend:**
-- Modern React with Hooks and Context API
-- Next.js for server-side rendering and static generation
-- TypeScript for type safety
-- Responsive UI/UX design with Tailwind CSS
-- State management and performance optimization
-- RESTful API integration
-
-**Mobile & Android Development:**
-- React Native for cross-platform mobile apps
-- Native Android development with Kotlin and Java
-- Mobile UI/UX design patterns
-- Platform-specific optimizations
-- Integration with native APIs
-
-**Backend:**
-- Node.js & Express.js for scalable APIs
-- Database design and optimization (SQL & NoSQL)
-- Authentication & authorization
-- Microservices architecture
-- RESTful & GraphQL APIs
-
-**Machine Learning & AI:**
-- Deep Learning with TensorFlow and PyTorch
-- Generative AI and Large Language Models (LLMs)
-- NumPy, Pandas, and Scikit-learn for data science
-- Machine learning model development and deployment
-- Natural Language Processing (NLP)
-- Computer Vision applications
-
-**Database Technologies:**
-- Relational Databases: PostgreSQL, MySQL, SQL Server
-- NoSQL: MongoDB, Redis
-- Query optimization and indexing
-- Database design and normalization
-
-**DevOps & Tools:**
-- Git version control & collaborative workflows
-- Docker containerization
-- CI/CD pipeline implementation
-- Linux system administration
-- Agile development practices
-
----
-
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
