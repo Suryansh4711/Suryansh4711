@@ -100,7 +100,7 @@ I'm a passionate Full Stack Developer focused on creating elegant solutions to c
 
 | Statistics | Languages | Streak |
 |---|---|---|
-| [![Suryansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suryansh4711&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&line_height=27)](https://github.com/Suryansh4711) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suryansh4711&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Suryansh4711) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Suryansh4711&theme=tokyonight&hide_border=true)](https://github.com/Suryansh4711) |
+| <img src="https://github-readme-stats.vercel.app/api?username=Suryansh4711&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&line_height=27" alt="Suryansh's GitHub Stats" width="300" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryansh4711&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="300" /> | <img src="https://github-readme-streak-stats.herokuapp.com?user=Suryansh4711&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="300" /> |
 
 </div>
 
