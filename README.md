@@ -93,17 +93,7 @@ I'm a passionate Full Stack Developer focused on creating elegant solutions to c
 
 ---
 
-## 💼 Featured Projects
-
-### 🔗 URL Shortener
-A high-performance URL shortening service with QR code generation, analytics tracking, and real-time metrics.
-- **Tech Stack**: React, Node.js, MongoDB, Tailwind CSS
-- **Features**: QR code generation, link analytics, custom durations
-- **Repo**: [URLSHORTNER](https://github.com/Suryansh4711/URLSHORTNER)
-
----
-
-## 📚 Core Competencies
+##  Core Competencies
 
 **Frontend:**
 - Modern React with Hooks and Context API
